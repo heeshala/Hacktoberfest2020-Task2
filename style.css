@@ -1,8 +1,13 @@
-h1{
-    text-align: center;
-    color:red;
+h1 {
+  text-align: center;
+  color: rgb(95, 0, 173);
 }
 
-p{
-    font-size: 10px;
+p {
+  font-size: 15px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
