@@ -5,4 +5,10 @@ h1{
 
 p{
     font-size: 10px;
+    color:#005544;
+    border-style:solid;
+    background-color:violet;
+    padding:25px 50px 25px 50px;
+    
+    
 }
