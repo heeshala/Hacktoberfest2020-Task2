@@ -1,3 +1,24 @@
+<body style="background-color:pink;">
+
+<style>
+img{
+    display:black;
+    margin-left:auto;
+    margin-right:auto;
+}
+</style>
+<img src="img_girl.jpg"alt="Paris"class="center">
+<h1>Hacktoberfest 2020</h1>
+<p>Name :<h style="color:DodgerBlue;">
+Alex</h></p>
+<p>Age: 12yr</p>
+<p><i>Country of Residence :<h style="color:green;">l</h>
+            <h style="color:white;">t</h>
+            <h style="color:red;">a</h>
+            <h style="color:green;">s</h>
+            <h style="color:white;">y</h></p>
+          
+
 h1{
     text-align: center;
     color:red;
