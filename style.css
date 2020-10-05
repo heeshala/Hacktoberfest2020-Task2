@@ -1,8 +1,27 @@
-h1{
-    text-align: center;
-    color:red;
+body{
+    background-color: green;
 }
-
-p{
+    
+.h1{
+    text-align: center;
+    color:purple;
+}
+.name{
+    color: blue;
+}
+.CR{
+    font-style: italic;
     font-size: 10px;
 }
+.S{
+    color:yellow;
+}
+.L{
+    color:Blue;
+}
+    
+}
+.img{
+    allign: center;
+}
+
