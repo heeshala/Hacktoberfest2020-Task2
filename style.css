@@ -1,8 +1,32 @@
-h1{
-    text-align: center;
-    color:red;
+body {
+    background-color: coral;
 }
 
-p{
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+p {
     font-size: 10px;
+}
+
+p.name {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.white {
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 40%;
 }
