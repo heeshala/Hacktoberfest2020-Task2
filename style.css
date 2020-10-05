@@ -1,8 +1,39 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+img
+{
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+mark
+{
+	color:blue;background: none;
+}
+em
+{
+	
+  font-style: italic;
+}
+span.green
+{
+	color:green;
+}
+span.saffron
+{
+	color:#F4C430;
+}
+span.white
+{
+	color:white;
+	
 }
