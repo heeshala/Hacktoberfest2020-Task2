@@ -1,8 +1,27 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
+}
+
+body{
+    background-color: burlywood;
 }
 
 p{
-    font-size: 10px;
+    font-size: 30px;
+}
+
+#name
+{
+    color: blue;
+}
+
+#img
+{
+    align-items: center;
+    width: 500px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
