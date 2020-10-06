@@ -1,8 +1,16 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
-
+.blue{
+	color:blue;
+}
 p{
     font-size: 10px;
+}
+.italic{
+	font-style:italic;
+}
+body{
+	background-color:#f2ffc9;
 }
