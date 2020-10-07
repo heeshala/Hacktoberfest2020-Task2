@@ -1,8 +1,33 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+.name {
+    color: blue;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.residence {
+    font-style: italic;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.content {
+   display: block;
+   margin-left: auto;
+  margin-right: auto;
+  width: 6em
 }
