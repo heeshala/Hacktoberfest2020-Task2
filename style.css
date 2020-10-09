@@ -1,8 +1,27 @@
+body{
+    background-color: #ebebeb;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
 }
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-height: 200px;
+    max-width: 200px;
+}
+.country span {
+    color: white;
+}
+.country span:nth-child(2n+1) {
+    color: red;
+}
+
