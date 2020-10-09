@@ -6,3 +6,8 @@ h1{
 p{
     font-size: 10px;
 }
+
+img {
+   margin-left: auto;
+   margin-right: auto;
+}
