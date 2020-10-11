@@ -1,8 +1,42 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+.size{
+	image-resolution:300dpi; 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+} 
+
+body{
+	background-color:cyan;
+}
+
+	
+.nameColor
+{
+	color:blue;
+}
+
+.red{
+	color:red
+}
+
+.yellow{
+	color:yellow
+}
+
+.green{
+	color:green
+}
+
+.orange{
+	color:orange
 }
