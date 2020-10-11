@@ -1,8 +1,21 @@
+body{
+    background-color: #C0C0C0;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:#ADD8E6;
 }
 
 p{
     font-size: 10px;
 }
+
+#name{
+    color: #00FFFF;
+}
+
+#country{
+    color: #FFA500;
+}
+
