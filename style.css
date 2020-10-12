@@ -1,8 +1,14 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 30px;
+}
+.name{
+    color: blue;
+}
+body{
+    background-color: gray;
 }
