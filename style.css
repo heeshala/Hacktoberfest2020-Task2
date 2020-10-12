@@ -1,8 +1,24 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+body {
+	background-color:#7aaff5;
+}
+
+p.name {
+	color:blue;
+}
+
+.red {
+	color:red;
+}
+
+.white {
+	color:white;
 }
