@@ -1,8 +1,18 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+head{
+	color: purple;
+}
+img{
+
+	margin-left: 450px;
+}
+body{
+	background-color: pink;
 }
