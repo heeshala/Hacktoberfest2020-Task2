@@ -11,6 +11,18 @@ p1{
 p2{
     font-style:italic;
     
+} if (country = ITALY)
+
+{
+   
+<span style="color: green">I</span>
+<span style="color: white">T</span>
+<span style="color: red">A</span>
+<span style="color: green">L</span>
+<span style="color: white">Y</span>
+
+}
+    
     
 }
 body {background-color: coral;}
