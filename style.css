@@ -1,8 +1,18 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
-p{
+p1{
+    color: blue;
     font-size: 10px;
 }
+
+p2{
+    font-style:italic;
+    
+    
+}
+body {background-color: coral;}
+
+
