@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:red;
+}
+
+p{
+    font-size: 10px;
+}
+
+#header{
+	color: purple;
+}
+p.para{
+	color: blue;
+}
+
