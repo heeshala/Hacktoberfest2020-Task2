@@ -1,8 +1,54 @@
-h1{
+h1 {
     text-align: center;
-    color:red;
+    color: purple;
 }
 
-p{
+p {
     font-size: 10px;
+}
+
+.name {
+    color: blue;
+}
+
+.country {
+    font-style: italic;
+}
+
+.s {
+    color: #ffbe29;
+}
+
+.r {
+    color: #8d153a;
+}
+
+.i {
+    color: #eb7400;
+}
+
+.l {
+    color: #00534e;
+}
+
+.a {
+    color: #ffbe29;
+}
+
+.n {
+    color: #8d153a;
+}
+
+.k {
+    color: #eb7400;
+}
+
+.a {
+    color: #00534e;
+}
+
+body img {
+    width: 40%;
+    position: relative;
+    left: 30%;
 }
