@@ -1,8 +1,24 @@
-h1{
-    text-align: center;
-    color:red;
+h1 {
+  text-align: center;
+  color: purple;
 }
 
-p{
-    font-size: 10px;
+p {
+  font-size: 10px;
+}
+
+#name {
+  color: blue;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+#country_name {
+  color: rgb(109, 3, 3);
+}
+
+body {
+  background-color: aqua;
 }
