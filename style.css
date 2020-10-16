@@ -1,8 +1,24 @@
-h1{
+body{
+	   background-color:LightBlue;
+	}
+	h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+	
+}
+.name{
+   color:blue;
+}
+.orange{
+    color:orange;
+}
+.white{
+    color:white;
+}
+.green{
+    color:green;
 }
