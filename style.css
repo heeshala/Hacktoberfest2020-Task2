@@ -1,8 +1,32 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+.name{
+    color: blue;
+}
+.s{
+    color: red;
+}
+.r{
+    color: green;
+}
+.i{
+    color: yellow;
+}
+.l{
+    color: green;
+}
+.a{
+    color: orange;
+}
+.n{
+    color: green;
+}
+.k{
+    color: yellow;
 }
