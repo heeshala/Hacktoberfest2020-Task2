@@ -6,3 +6,10 @@ h1{
 p{
     font-size: 10px;
 }
+
+#header{
+	color: purple;
+}
+p.para{
+	color: blue;
+}
