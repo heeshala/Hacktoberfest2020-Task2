@@ -1,8 +1,17 @@
-h1{
-    text-align: center;
-    color:red;
+
+body{
+    background-color: #e9ecef;
+    font-family: 'Acme', sans-serif;
 }
 
+h1{
+    text-align: center;
+    background-color: #4a4e69;
+    color: #e9ecef;
+    font-size: 3rem;
+    padding: 1rem;
+    	}
+
 p{
-    font-size: 10px;
+   font-size: 1.5rem;
 }
