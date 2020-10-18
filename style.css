@@ -1,8 +1,39 @@
+body{
+    background-color: lightBlue;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+#name{
+    color:blue;
+}
+
+.center_align{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#country_name{
+    font-style: italic;
+}
+
+#green{
+    color:green;
+}
+
+#yellow{
+    color:yellow;
+}
+
+#orange{
+    color:orange;
 }
