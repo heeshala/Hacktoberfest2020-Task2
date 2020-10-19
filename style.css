@@ -1,8 +1,45 @@
+body {
+    background: #f0f0fd;
+    font-family: sans-serif;
+}
 h1{
     text-align: center;
-    color:red;
+    color:rgb(130, 10, 167);
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
+}
+
+p.name {
+    color: rgb(12, 44, 141);
+}
+
+p span {
+    font-style: italic;
+}
+
+.green-color {
+    color: green;
+}
+
+.yellow-color {
+    color: yellow;
+}
+
+.blue-color {
+    color: blue;
+}
+
+.white-color {
+    color: white;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.image img {
+    border-radius: 50%;
 }
