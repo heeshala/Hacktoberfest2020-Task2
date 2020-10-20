@@ -1,8 +1,16 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
+}
+
+.usename{
+    font-size: 20px;
+    color:blue;
 }
 
 p{
-    font-size: 10px;
+	 font-size: 20px;
+}
+body{
+	background-color:grey;
 }
