@@ -1,8 +1,22 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+#name{
+    color: blue;
+}
+
+#country{
+    font-style: italic;
+}
+
+body{
+    background-color: coral;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
 }
