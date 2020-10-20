@@ -1,8 +1,27 @@
+body{
+    background-color: white;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+#name{
+    color: blue;
+}
+
+#country{
+    color: #FFA500;
+     font-style: italic;
+}
+.img-container{
+   display: block;
+  margin-left:auto;
+  margin-right:auto;
+  
 }
