@@ -1,8 +1,28 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
+}
+body {
+    background-color: burlywood;
 }
 
 p{
     font-size: 10px;
+}
+
+.name {
+    color: blue;
+}
+
+.country {
+    color: green;
+}
+
+.ital {
+    font-style: italic;
+}
+.pic {
+    display: block;
+    margin: 0 auto;
+    width: 15%;
 }
