@@ -1,8 +1,34 @@
-h1{
-    text-align: center;
-    color:red;
+html {
+    background-color: peru;
 }
 
-p{
-    font-size: 10px;
+h1 {
+    text-align: center;
+    color:purple;
+}
+
+p {
+    font-size: 22px;
+}
+
+.name span {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+}
+
+.country span {
+    font-style: italic;
+}
+
+.country span:nth-child(odd){
+    color: rgb(0, 162, 255);
+}
+
+.country span:nth-child(even){
+    color: yellow;
 }
