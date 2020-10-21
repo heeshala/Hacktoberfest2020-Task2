@@ -1,8 +1,31 @@
 h1{
     text-align: center;
-    color:red;
+    color:#800080;
 }
 
 p{
-    font-size: 10px;
+    font-size: 15px;
+}
+body{
+	background: #e8e8e8;
+}
+#name{
+	color: #0000ff;
+}
+#image{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#country{
+	font-style: italic;
+}
+#in{
+	color: #ffa500;
+}
+#d{
+	color: #ffffff;
+}
+#ia{
+	color:  #008000;
 }
