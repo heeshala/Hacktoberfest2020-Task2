@@ -1,8 +1,23 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
 }
+
+#p1{
+    color:blue;
+}
+
+#p3{
+	font-style: italic;
+}
+body{
+	background-color: #57f2e5;
+}
+img {
+   	align-content:center; 
+
+    }
