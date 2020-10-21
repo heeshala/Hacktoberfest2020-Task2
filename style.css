@@ -1,8 +1,20 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
-p{
+p.name{
+    
     font-size: 10px;
+    color:blue;
 }
+
+p.country{
+    font-style: italic;
+}
+
+img{
+    position: center;
+}
+
+body{background-color: chartreuse;}
