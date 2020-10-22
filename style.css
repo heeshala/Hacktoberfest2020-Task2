@@ -1,6 +1,12 @@
+body {
+  background-color: #fefbd8;
+}
+span {
+  background-color: blue;
+}
 h1{
     text-align: center;
-    color:red;
+    color: purple;
 }
 
 p{
