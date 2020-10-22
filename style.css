@@ -1,8 +1,54 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
+.name span{
+    
+    color: blue;
+}
+.img{
+  
+    width: 100%;
+
+}
+.img img{
+
+     width: 50%;
+     height: auto;
+     display: block;
+     margin: auto;
+}
+.country span{
+
+    font-style:italic;
+
+}
 p{
     font-size: 10px;
+
+}
+body{
+    background-color: white;
+}
+.coun .n1{
+    color: green;
+}
+.coun .n2{
+    color: red;
+}
+.coun .n3{
+    color: green;
+}
+.coun .n4{
+    color: red;
+}
+.coun .n5{
+    color: green;
+}
+.coun .n6{
+    color: red;
+}
+.coun .n7{
+    color: green;
 }
