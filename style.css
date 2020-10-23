@@ -1,8 +1,21 @@
+body{
+    background-color: peachpuff;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 10px; 
+}
+.name
+{
+    color: blue;
+    display: inline;
+}
+.image
+{
+    text-align: center;
 }
