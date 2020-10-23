@@ -29,26 +29,29 @@ p{
 
 }
 body{
-    background-color: white;
+    background-color: rgb(77, 73, 73);
 }
-.coun .n1{
-    color: green;
+.country .c1{
+    color: yellow;
 }
-.coun .n2{
+.country .c2{
     color: red;
 }
-.coun .n3{
+.country .c3{
+    color: orangered;
+}
+.country .c4{
     color: green;
 }
-.coun .n4{
+.country .c5{
+    color: yellow;
+}
+.country .c6{
     color: red;
 }
-.coun .n5{
-    color: green;
+.country .c7{
+    color: orangered;
 }
-.coun .n6{
-    color: red;
-}
-.coun .n7{
-    color: green;
+.country .ita{
+    font-style:italic;
 }
