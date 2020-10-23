@@ -1,8 +1,30 @@
+body {
+  background-color: lightgrey;
+}
+
 h1{
-    text-align: center;
-    color:red;
+    
+text-align: center;
+    
+color:purple;
+
 }
 
 p{
-    font-size: 10px;
+    
+font-size: 10px;
+
 }
+
+
+.colour{
+color: blue;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
