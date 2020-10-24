@@ -1,8 +1,30 @@
+body{
+	background: #9796f0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fbc7d4, #9796f0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.name{
+	color: blue;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
 }
+
+img{
+	width: 300px;
+	height: 350px;
+	padding: 0 auto;
+	display: block; 
+	margin: 0 auto;
+}
+
+.o{color: orange;}
+.w{color: white;}
+.g{color: green;}
