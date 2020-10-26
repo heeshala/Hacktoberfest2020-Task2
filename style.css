@@ -1,8 +1,13 @@
+body {
+  background-color: lightblue;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
+    color:blue;
     font-size: 10px;
+    font-style: italic;
 }
