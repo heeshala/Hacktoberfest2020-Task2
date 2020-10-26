@@ -1,8 +1,26 @@
+body{
+    background-color:rgba(201,76,76,0.3);
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+.orange{
+  color:orange;
+}
+
+.white{
+ color:white;
+}
+
+.blue{
+    color:blue;
+}
+
+.green{
+color:green;
 }
