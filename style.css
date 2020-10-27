@@ -1,9 +1,13 @@
+body{
+ background-color: pink;
+}
+
 h1{
-    text-align: center;
-    color:purple;
+ text-align: center;
+ color:purple;
 }
 
 p{
-    font-size: 10px;
-    color:Blue;
+	font-size: 15px;
+
 }
