@@ -1,8 +1,16 @@
+body{
+    background-color: yellow;
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+
+name{
+    color: blue;
 }
