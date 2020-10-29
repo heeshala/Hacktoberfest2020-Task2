@@ -1,8 +1,50 @@
+body {
+    background-color: lightblue;
+  
+}
+
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 30px;
+}
+.n{
+    color:blue;
+      
+}
+.c{
+    font-style: italic;
+}
+.s{
+    color: yellow;
+}
+.r{
+    color: green;
+}
+.i{
+    color: orange;
+}
+.l{
+    color: red;
+}
+.a{
+    color: yellow;
+}
+.n{
+    color: green;
+}
+.k{
+    color: orange;
+}
+.a1{
+    color: red;
+}
+.im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
