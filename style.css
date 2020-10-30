@@ -1,8 +1,22 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
+    
 }
 
-p{
+p1{
+    font-size: 10px;
+    color: blue;
+}
+p2{
     font-size: 10px;
 }
+img{
+
+
+}
+p3{
+     font-size: 10px;
+     font-style:italic;
+}
+
