@@ -1,8 +1,16 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
+    font-size: 10px;
+}
+p1{
+   color:blue;
+   font-size: 10px;
+}
+p2{
+    font-style: italic;
     font-size: 10px;
 }
